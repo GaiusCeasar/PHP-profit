@@ -10,15 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a37addd6-2846-408e-a230-b8a5554b5d3d" name="Default Changelist" comment="add home work №1">
-      <change afterPath="$PROJECT_DIR$/.idea/PHP-profit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    <list default="true" id="a37addd6-2846-408e-a230-b8a5554b5d3d" name="Default Changelist" comment="add home work №2 08.01.2022">
+      <change afterPath="$PROJECT_DIR$/inc1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +56,8 @@
       <updated>1641328483224</updated>
       <workItem from="1641328485274" duration="2878000" />
       <workItem from="1641363217345" duration="3352000" />
-      <workItem from="1641634495521" duration="10641000" />
+      <workItem from="1641634495521" duration="11270000" />
+      <workItem from="1641705397343" duration="3352000" />
     </task>
     <task id="LOCAL-00001" summary="add home work №1">
       <created>1641331120502</created>
@@ -68,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641331120502</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add home work №2 08.01.2022">
+      <created>1641654557247</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641654557247</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,7 +93,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add home work №1" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="add home work №2 08.01.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="add home work №2 08.01.2022" />
   </component>
   <component name="WindowStateProjectService">
     <state x="390" y="7" key="#PHP" timestamp="1641329243953">
@@ -99,13 +105,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1641329241270" />
-    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1641639554185">
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1641708355860">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1641639554185" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1641331130831">
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1641708355860" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1641655008484">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1641331130831" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1641655008484" />
   </component>
 </project>

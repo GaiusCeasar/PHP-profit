@@ -122,6 +122,21 @@
 
 <h2>Задание №3</h2>
 
+<?php
+// ДУмаю, что если файл подключен успешно, то результатом выполнения будет int(1),
+// а если не успешно то bool(false) + Warning
+
+var_dump(include __DIR__.'/inc1.php');
+var_dump(include __DIR__.'/inc2.php');
+var_dump(include __DIR__.'/inc3.php');
+var_dump(include __DIR__.'/inc4.php'); // bool(false) + Warning
+?>
+
+<h2>Задание №4</h2>
+
+<?php
+phpinfo();
+?>
 
 </body>
 </html>
