@@ -10,12 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a37addd6-2846-408e-a230-b8a5554b5d3d" name="Default Changelist" comment="add home work №2 08.01.2022">
-      <change afterPath="$PROJECT_DIR$/inc1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inc2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inc3.php" afterDir="false" />
+    <list default="true" id="a37addd6-2846-408e-a230-b8a5554b5d3d" name="Default Changelist" comment="add home work №2 09.01.2022 9:32">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_1/lesson_1.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_1/lesson_1.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +42,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="E:/PHP/Programm/openserver/OpenServer/modules/php/PHP_7.4" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -57,7 +56,8 @@
       <workItem from="1641328485274" duration="2878000" />
       <workItem from="1641363217345" duration="3352000" />
       <workItem from="1641634495521" duration="11270000" />
-      <workItem from="1641705397343" duration="3352000" />
+      <workItem from="1641705397343" duration="3392000" />
+      <workItem from="1641709993852" duration="4250000" />
     </task>
     <task id="LOCAL-00001" summary="add home work №1">
       <created>1641331120502</created>
@@ -73,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641654557247</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add home work №2 09.01.2022 9:32">
+      <created>1641709952398</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641709952398</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,7 +101,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add home work №1" />
     <MESSAGE value="add home work №2 08.01.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="add home work №2 08.01.2022" />
+    <MESSAGE value="add home work №2 09.01.2022 9:32" />
+    <option name="LAST_COMMIT_MESSAGE" value="add home work №2 09.01.2022 9:32" />
   </component>
   <component name="WindowStateProjectService">
     <state x="390" y="7" key="#PHP" timestamp="1641329243953">
@@ -105,10 +113,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1641329241270" />
+    <state x="453" y="87" key="NewPhpClassDialog" timestamp="1641713187480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="453" y="87" key="NewPhpClassDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1641713187480" />
     <state x="517" y="287" key="NewPhpFileDialog" timestamp="1641708355860">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1641708355860" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1641712586282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1641712586282" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1641655008484">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
